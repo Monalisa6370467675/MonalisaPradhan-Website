@@ -1,0 +1,40 @@
+
+h1{
+ color:brown
+}
+h2{
+    color:aliceblue
+
+   }
+   h3{
+    color:aqua
+   }
+   h4{
+    color:blanchedalmond
+   }
+   h5{
+    color:gainsboro
+   }
+   h6{
+    color:rebeccapurple
+   }
+   h7{
+    color:brown
+   }
+   h8{
+    color:brown
+   }
+   h9{
+    color:brown
+   }
+
+p{
+    color:bisque
+}
+body{
+    background-color: rgb(255,0,255);
+}
+button{
+    color :black;
+    background-color: red;
+}
